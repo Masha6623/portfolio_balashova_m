@@ -15,7 +15,7 @@ export const projects = [
         id: 3,
         title: "Portfolio",
         img: "portfolio.PNG",
-        link: "",
+        link: "https://github.com/Masha6623/portfolio_balashova_m",
     },
     {
         id: 4,
