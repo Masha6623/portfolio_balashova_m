@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio_balashova_m/static/css/main.a240c550.css",
+    "main.js": "/portfolio_balashova_m/static/js/main.a67b9cca.js",
+    "index.html": "/portfolio_balashova_m/index.html",
+    "main.a240c550.css.map": "/portfolio_balashova_m/static/css/main.a240c550.css.map",
+    "main.a67b9cca.js.map": "/portfolio_balashova_m/static/js/main.a67b9cca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.a67b9cca.js"
+  ]
+}
